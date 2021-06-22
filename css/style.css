@@ -34,7 +34,7 @@ img {
     color: white;
 }
 .button.dark {
-    color: rgba(0, 102, 204, 1);
+    color: rgb(231, 118, 118);
     background-color: rgba(255, 255, 255,.8);
 }
 .button.dark:hover {
@@ -44,7 +44,7 @@ img {
 /* SITE STRUCTURE */
 
 header {
-    background-color: rgb(122, 119, 120);
+    background-color: rgb(243, 171, 195);
     color: rgba(0, 0, 0, 0.8); 
     padding: 1em;
     display: grid;
@@ -88,7 +88,7 @@ main {
 
 /* HERO SECTION */
 .hero {
-    background-color: rgb(241, 177, 202);
+    background-color: rgba(197, 197, 197, 0.753);
     text-align: center;
     color: white;
     padding: 6em 1em;
